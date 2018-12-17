@@ -175,8 +175,8 @@ input[type="search"]::-webkit-search-results-button,
 input[type="search"]::-webkit-search-results-decoration { display: none; }
 input[type=text]::-ms-clear {  font-size: 2rem;  color: #000000; display: none; width : 0; height: 0; }
 input[type=text]::-ms-reveal {  font-size: 2rem;  color: #000000; display: none; width : 0; height: 0; }
-input:focus::-webkit-input-placeholder { color:transparent; }
-input:focus { font-size: 1.9rem;  color: #000000;}
+input:{ font-size: 1.9rem;  color: #000000;}
+::-webkit-input-placeholder { font-size: 1rem !important;}
 input:hover { font-size: 1.9rem;  color: #000000;}
 section .body-4-card ul {
   display: block;
@@ -185,8 +185,8 @@ section .body-4-card ul {
   padding: 0rem;
 }
 section .body-4-card ul li {
-    background: transparent url("../pics/chk-box.png") no-repeat left center;
-    /* background: transparent url("https://lh4.googleusercontent.com/vexnz5WnU7WtfapZB21AnFzecvCpMvuqecPq4ZiFKtcUsuwp-pNL_vkRBEl342bwUEW8cLiriqHXTCcgUN_l=w1920-h1058") no-repeat left center; */
+    /* background: transparent url("../pics/chk-box.png") no-repeat left center; */
+    background: transparent url("https://cdn1.savepice.ru/uploads/2018/12/17/423e0df1c9200cedd13ab352246ea4fd-full.png") no-repeat left center;
     list-style-position: inside;
     font-size: 1.2857rem;
     line-height: 3.7857rem;
@@ -423,8 +423,8 @@ section .search-bar .search-btn a .zoom-txt {
   height: 45.4285rem;
   align-self: center;
   text-overflow: inherit;
-  background-image: url("../pics/body-4-pic.png");
-  /* background-image: url("https://lh6.googleusercontent.com/spUcJ-YTICT-oA_GqcV6fP1SzPpnELX99SAV40u2_jCl239yoXmWPVMvc4aoSXYU79jbN22W6HnXjkrbB2JO=w1920-h1058-rw"); */
+  /* background-image: url("../pics/body-4-pic.png"); */
+  background-image: url("https://cdn1.savepice.ru/uploads/2018/12/17/2286c7cdca026f808817914ecbe20958-full.png");
   background-size: 37.8214rem, 45.4285rem;
   background-repeat: no-repeat, no-repeat;
   margin-left: 3.3571rem;
@@ -448,7 +448,8 @@ section .search-bar .search-btn a .zoom-txt {
   justify-content: space-between;
   margin-left: 1.1735rem;
   margin-right: 1.1735rem;
-  background-image: url("../pics/block-fonas.svg");
+  /* background-image: url("../pics/block-fonas.png"); */
+  background-image: url("https://cdn1.savepice.ru/uploads/2018/12/17/807de8b0b56f625ad71812d6d2ec0d50-full.png");
   background-size: auto, auto;
   background-position: center center;
   background-repeat: no-repeat, no-repeat;
@@ -461,22 +462,23 @@ section .search-bar .search-btn a .zoom-txt {
   border-radius: 50px;
 }
 .body-5-card-photo1 {
-  background-image: url("../pics/body5-photo1.jpg");
-  /* background-image: url("https://lh4.googleusercontent.com/X_lWKftTl6fhsQafkyiB6d53ehLzxPSffRT9N8qmNsFAbW0OFn6wiRaW6oevh6ZNsSSF0h-NdefpRDGuQWCA=w1920-h1058"); */
+  /* background-image: url("../pics/body5-photo1.jpg"); */
+  background-image: url("https://cdn1.savepice.ru/uploads/2018/12/17/3afe04e9e1cccb4922e4f17cfd14fbb3-full.jpg");
 }
 .body-5-card-photo2 {
-  background-image: url("../pics/body5-photo2.jpg");
-  /* background-image: url("https://lh6.googleusercontent.com/Trr7flqKKho_VYlgaRUM64aVfegbiVknuSWhJNRni25HM4e8i6OftG4AEmHZFMpPp6ZAyPvU9hqKiVG6SVj-=w1920-h1058"); */
+  /* background-image: url("../pics/body5-photo2.jpg"); */
+  background-image: url("https://cdn1.savepice.ru/uploads/2018/12/17/3a6ea18313e9d8d481652b1550cd1685-full.jpg");
 }
 .body-5-card-photo3 {
-  background-image: url("../pics/body5-photo3.jpg");
-  /* background-image: url("https://lh6.googleusercontent.com/amt-UBeSMuNxJyBrZ645uXRlSL6fUcCk1MixK-0NsKmn7tuPvoxdfGnSVMKa8ELp8HD0SJsYLloP9-T011Rn=w1920-h1058"); */
+  /* background-image: url("../pics/body5-photo3.jpg"); */
+  background-image: url("https://cdn1.savepice.ru/uploads/2018/12/17/35e5251a08bd41303368c057571f8117-full.jpg");
 }
 .body-6 {
   background-color: #FF65C2;
   padding-top: 9.3571rem;
   padding-bottom: 11.7142rem;
-  background-image: url("../pics/block6-background.svg");
+  /* background-image: url("../pics/block6-background.png"); */
+  background-image: url("https://cdn1.savepice.ru/uploads/2018/12/17/83b1fb17dba7fae47302b1a780a6ab5d-full.png");
   background-size: 110%, 110%;
   background-position: center bottom;
   background-repeat: no-repeat, no-repeat;
@@ -494,13 +496,13 @@ background-repeat: no-repeat, no-repeat;
 border-radius: 50px;
 }
 .slider-left {
-  background-image: url("../pics/left-arrow.png");
-  /* background-image: url("https://lh6.googleusercontent.com/VtiCyD9bYk48JtB54au-tAjvk3O2cHRu4-ijRbRoC_8XCr8N6TVwRce-eRglXYKc3glqg2Mat_Yb752VuLjh=w1920-h1058"); */
+  /* background-image: url("../pics/left-arrow.png"); */
+  background-image: url("https://cdn1.savepice.ru/uploads/2018/12/17/f033634bbba3aed2efb6caf5965c458a-full.png");
   margin-right: 1.071rem;
 }
 .slider-right {
-  background-image: url("../pics/right-arrow.png");
-  /* background-image: url("https://lh4.googleusercontent.com/y_dCboAmm444rdPiKSEvmsL6csRpPWekJUneLSzRuHZIF2EvzGstvXhnmxiNR0z4IDtRtx5mIRUrfTIqIWVt=w1920-h1058"); */
+  /* background-image: url("../pics/right-arrow.png"); */
+  background-image: url("https://cdn1.savepice.ru/uploads/2018/12/17/3da329fc11decc52e5c827da66043bf3-full.png");
   margin-left: 1.071rem;
 }
 .slider-card {
@@ -521,16 +523,16 @@ border-radius: 50px;
   border-top-right-radius: 8px;
 }
 .slider-card-photo1 {
-  background-image: url("../pics/slider-foto1.jpg");
-  /* background-image: url("https://lh3.googleusercontent.com/GjyEbULaq4KM9ft9sZYlNYyxBmJG6IrDYu6n5NvaLWvLLkF7vBcTGfsBcqNOWnMILu7qN_CwP0p9TJUXRgzw=w1920-h1058"); */
+  /* background-image: url("../pics/slider-foto1.jpg"); */
+  background-image: url("https://cdn1.savepice.ru/uploads/2018/12/17/c7cd86ceb79e2253f5af5d4ced43ad36-full.jpg");
 }
 .slider-card-photo2 {
-  background-image: url("../pics/slider-foto2.jpg");
-  /* background-image: url("https://lh5.googleusercontent.com/_iH3JDc-oYa0I6_qJ_e8dlTZ6VnxiyVgE1chdgpcdHeMMZXb1iLR9AqFz8HolWXLe9Gwu1lvnv7xjqnVLvfl=w1920-h1058"); */
+  /* background-image: url("../pics/slider-foto2.jpg"); */
+  background-image: url("https://cdn1.savepice.ru/uploads/2018/12/17/935ad29d5287a81cc362aa27f2e23dd7-full.jpg");
 }
 .slider-card-photo3 {
-  background-image: url("../pics/slider-foto3.jpg");
-  /* background-image: url("https://lh5.googleusercontent.com/FEQfGq9YVWTkA9PxAO5ubxUC_B_cCko5jxI3iXgMygkCTe0B80yazILEHKaQR96z0TTw5ILbKrxyzFKCSch0=w1920-h1058"); */
+  /* background-image: url("../pics/slider-foto3.jpg"); */
+  background-image: url("https://cdn1.savepice.ru/uploads/2018/12/17/90b713acb75b16e589885d4045ca43ae-full.jpg");
 }
 .body-7 {
   background-color: #FFFFFF;
@@ -600,7 +602,8 @@ border-radius: 50px;
 }
 footer {
   background-color: #FFFFFF;
-  background-image: url("../pics/block9-background.svg");
+  /* background-image: url("../pics/block9-background.png"); */
+  background-image: url("https://cdn1.savepice.ru/uploads/2018/12/17/e8f717b7252b41c99294a7841f0f6a9a-full.png");
   background-size: 110%, 110%;
   background-position: center bottom;
   background-repeat: no-repeat, no-repeat;
