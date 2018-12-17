@@ -278,8 +278,8 @@ section .search-btn a i {
   padding-bottom: 5.8571rem;
   padding-top: 12.3571rem;
   flex: 1 1 auto;
-  background-image: linear-gradient(rgba(55, 55, 55, 0.63), rgba(55, 55, 55, 0.63)), url("../pics/background.jpg");
-  /* background-image: linear-gradient(rgba(55, 55, 55, 0.63), rgba(55, 55, 55, 0.63)), url("https://lh4.googleusercontent.com/rFYT47J1rhQvEt0v5WPaoWbgoUWwhZZe7_Yvv5fLAGBCFGcUuWLTFAQJP9oO75XrSq1V1gKyvl9EHyU-r8zi=w1920-h1058-rw"); */
+  /* background-image: linear-gradient(rgba(55, 55, 55, 0.63), rgba(55, 55, 55, 0.63)), url("../pics/background.jpg"); */
+  background-image: linear-gradient(rgba(55, 55, 55, 0.63), rgba(55, 55, 55, 0.63)), url("https://cdn1.savepice.ru/uploads/2018/12/17/76fccdbdf1380d34fd620657194c09b3-full.jpg");
   background-size: 100% 100%;
   background-repeat: no-repeat, no-repeat;
   overflow:hidden;
