@@ -185,7 +185,7 @@ section .body-4-card ul {
   padding: 0rem;
 }
 section .body-4-card ul li {
-    /* background: transparent url("../pics/chk-box.png") no-repeat left center; */
+    /* background: transparent url("../imgs/chk-box.png") no-repeat left center; */
     background: transparent url("https://cdn1.savepice.ru/uploads/2018/12/17/423e0df1c9200cedd13ab352246ea4fd-full.png") no-repeat left center;
     list-style-position: inside;
     font-size: 1.2857rem;
@@ -278,7 +278,7 @@ section .search-btn a i {
   padding-bottom: 5.8571rem;
   padding-top: 12.3571rem;
   flex: 1 1 auto;
-  /* background-image: linear-gradient(rgba(55, 55, 55, 0.63), rgba(55, 55, 55, 0.63)), url("../pics/background.jpg"); */
+  /* background-image: linear-gradient(rgba(55, 55, 55, 0.63), rgba(55, 55, 55, 0.63)), url("../imgs/background.jpg"); */
   background-image: linear-gradient(rgba(55, 55, 55, 0.63), rgba(55, 55, 55, 0.63)), url("https://cdn1.savepice.ru/uploads/2018/12/17/76fccdbdf1380d34fd620657194c09b3-full.jpg");
   background-size: 100% 100%;
   background-repeat: no-repeat, no-repeat;
@@ -423,7 +423,7 @@ section .search-bar .search-btn a .zoom-txt {
   height: 45.4285rem;
   align-self: center;
   text-overflow: inherit;
-  /* background-image: url("../pics/body-4-pic.png"); */
+  /* background-image: url("../imgs/body-4-pic.png"); */
   background-image: url("https://cdn1.savepice.ru/uploads/2018/12/17/2286c7cdca026f808817914ecbe20958-full.png");
   background-size: 37.8214rem, 45.4285rem;
   background-repeat: no-repeat, no-repeat;
@@ -448,7 +448,7 @@ section .search-bar .search-btn a .zoom-txt {
   justify-content: space-between;
   margin-left: 1.1735rem;
   margin-right: 1.1735rem;
-  /* background-image: url("../pics/block-fonas.png"); */
+  /* background-image: url("../imgs/block-fonas.png"); */
   background-image: url("https://cdn1.savepice.ru/uploads/2018/12/17/807de8b0b56f625ad71812d6d2ec0d50-full.png");
   background-size: auto, auto;
   background-position: center center;
@@ -462,22 +462,22 @@ section .search-bar .search-btn a .zoom-txt {
   border-radius: 50px;
 }
 .body-5-card-photo1 {
-  /* background-image: url("../pics/body5-photo1.jpg"); */
+  /* background-image: url("../imgs/body5-photo1.jpg"); */
   background-image: url("https://cdn1.savepice.ru/uploads/2018/12/17/3afe04e9e1cccb4922e4f17cfd14fbb3-full.jpg");
 }
 .body-5-card-photo2 {
-  /* background-image: url("../pics/body5-photo2.jpg"); */
+  /* background-image: url("../imgs/body5-photo2.jpg"); */
   background-image: url("https://cdn1.savepice.ru/uploads/2018/12/17/3a6ea18313e9d8d481652b1550cd1685-full.jpg");
 }
 .body-5-card-photo3 {
-  /* background-image: url("../pics/body5-photo3.jpg"); */
+  /* background-image: url("../imgs/body5-photo3.jpg"); */
   background-image: url("https://cdn1.savepice.ru/uploads/2018/12/17/35e5251a08bd41303368c057571f8117-full.jpg");
 }
 .body-6 {
   background-color: #FF65C2;
   padding-top: 9.3571rem;
   padding-bottom: 11.7142rem;
-  /* background-image: url("../pics/block6-background.png"); */
+  /* background-image: url("../imgs/block6-background.png"); */
   background-image: url("https://cdn1.savepice.ru/uploads/2018/12/17/83b1fb17dba7fae47302b1a780a6ab5d-full.png");
   background-size: 110%, 110%;
   background-position: center bottom;
@@ -496,12 +496,12 @@ background-repeat: no-repeat, no-repeat;
 border-radius: 50px;
 }
 .slider-left {
-  /* background-image: url("../pics/left-arrow.png"); */
+  /* background-image: url("../imgs/left-arrow.png"); */
   background-image: url("https://cdn1.savepice.ru/uploads/2018/12/17/f033634bbba3aed2efb6caf5965c458a-full.png");
   margin-right: 1.071rem;
 }
 .slider-right {
-  /* background-image: url("../pics/right-arrow.png"); */
+  /* background-image: url("../imgs/right-arrow.png"); */
   background-image: url("https://cdn1.savepice.ru/uploads/2018/12/17/3da329fc11decc52e5c827da66043bf3-full.png");
   margin-left: 1.071rem;
 }
@@ -523,15 +523,15 @@ border-radius: 50px;
   border-top-right-radius: 8px;
 }
 .slider-card-photo1 {
-  /* background-image: url("../pics/slider-foto1.jpg"); */
+  /* background-image: url("../imgs/slider-foto1.jpg"); */
   background-image: url("https://cdn1.savepice.ru/uploads/2018/12/17/c7cd86ceb79e2253f5af5d4ced43ad36-full.jpg");
 }
 .slider-card-photo2 {
-  /* background-image: url("../pics/slider-foto2.jpg"); */
+  /* background-image: url("../imgs/slider-foto2.jpg"); */
   background-image: url("https://cdn1.savepice.ru/uploads/2018/12/17/935ad29d5287a81cc362aa27f2e23dd7-full.jpg");
 }
 .slider-card-photo3 {
-  /* background-image: url("../pics/slider-foto3.jpg"); */
+  /* background-image: url("../imgs/slider-foto3.jpg"); */
   background-image: url("https://cdn1.savepice.ru/uploads/2018/12/17/90b713acb75b16e589885d4045ca43ae-full.jpg");
 }
 .body-7 {
@@ -602,7 +602,7 @@ border-radius: 50px;
 }
 footer {
   background-color: #FFFFFF;
-  /* background-image: url("../pics/block9-background.png"); */
+  /* background-image: url("../imgs/block9-background.png"); */
   background-image: url("https://cdn1.savepice.ru/uploads/2018/12/17/e8f717b7252b41c99294a7841f0f6a9a-full.png");
   background-size: 110%, 110%;
   background-position: center bottom;
