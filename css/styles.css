@@ -20,7 +20,8 @@ h2 {
   font-size: 3.428rem;
   color: #797979;
   font-weight: bold;
-  margin: 0rem;
+  text-overflow: clip;
+  margin-block-start: 0rem;
 }
 .body-2-clm>h2 {
   margin-top: 6.857rem;
@@ -178,6 +179,7 @@ input[type=text]::-ms-reveal {  font-size: 2rem;  color: #000000; display: none;
 input:{ font-size: 1.9rem;  color: #000000;}
 ::-webkit-input-placeholder { font-size: 1rem !important;}
 input:hover { font-size: 1.9rem;  color: #000000;}
+
 section .body-4-card ul {
   display: block;
   float: left;
@@ -243,7 +245,7 @@ section .search-btn a i {
       text-decoration: none;
       color: #7F7F7F;
       font-style: normal;
-      line-height: 1.357rem;;
+      line-height: 1.357rem;
   }
   .flex-align-center {
     display: flex;
@@ -274,7 +276,6 @@ section .search-btn a i {
     text-align: center;
   }
 .body-1 {
-  height: 58.2857rem;
   padding-bottom: 5.8571rem;
   padding-top: 12.3571rem;
   flex: 1 1 auto;
@@ -362,7 +363,7 @@ section .search-bar .search-btn a .zoom-txt {
 }
 .body-3-card {
   width: 39.643rem;
-  height: 15.714rem;
+  /* height: 15.714rem; */
   background-color: #FFFFFF;
   margin-left: 1.071rem;
   margin-right: 1.071rem;
@@ -408,14 +409,14 @@ section .search-bar .search-btn a .zoom-txt {
   background-color: #FFFFFF;
   padding-bottom: 10.071rem;
   padding-top: 9.3571rem;
+
 }
 .body-4>div:first-child {
+  overflow: visible;
 }
 .body-4-card {
   display: flex;
   align-items: flex-start;
-  width: 41.0714rem;
-  height: 41.0715rem;
   justify-content: center;
 }
 .body-4-card:last-child {
@@ -545,8 +546,10 @@ border-radius: 50px;
   padding: 0;
 }
 .body-7-card {
-  justify-content: space-between;
+  justify-content: center;
   text-align: left;
+  margin-left: 1.25rem;
+  margin-right: 1.25rem;
   width: 25.7142rem;
   min-height: 18.6428rem;
 }
@@ -589,6 +592,7 @@ border-radius: 50px;
   flex-direction: row;
   width:  42.9285rem;
   margin-left: 1.25rem;
+  margin-right: 1rem;
 }
 .letter {
   width: 1.7143rem;
@@ -613,9 +617,8 @@ footer {
   padding-right: 23.5rem;
 }
 footer >div .row:first-child {
-    width: 74.3571rem;
+    min-width: 74.3571rem;
     justify-content: space-between;
-    height: 18rem;
     margin-bottom: 4.3571rem;
 }
 footer .row .folow-us a i {
@@ -628,6 +631,7 @@ footer .row .folow-us a i {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
+  width: auto;
   margin-top: 2.5rem;
 }
 .ft-card ul {

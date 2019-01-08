@@ -1,0 +1,50 @@
+h1 {
+    font-size: 3rem;
+}
+.search-bar {
+    width: 45rem;
+    height: 4rem;
+}
+.body-2-card {
+    width: 13.5357rem;
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
+}
+.body-3-card {
+    min-height: 30vw;
+    width:auto;
+}
+.body-4 {
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.body-4>div:first-child {
+    padding-left: 1.5rem;
+}
+.body-5 .clm .row {
+    flex-direction: column;
+}
+#slider>a {
+    display: none;
+}
+.slider-card {
+    width: 25.714rem;
+    min-width:auto;
+    height: 28.929rem;
+}
+.body-7-card {
+    max-width: 45.7142rem;
+    margin-bottom: 0.75rem;
+}
+.body-7>.row {
+    max-width: 48.4285rem;
+}
+.subscribe-bar {
+    width: 40rem;
+}
+.subscribe-bar a {
+    font-size: 0.9rem;
+}
+footer >div .row:first-child {
+min-width: 50.3571rem;
+}
