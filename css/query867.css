@@ -1,5 +1,6 @@
 h1 {
     font-size: 2.4286rem;
+    line-height: 5rem;
 }
 section .search-btn a i {
 font-size: 1.2rem;
@@ -57,4 +58,7 @@ footer {
     flex-wrap: 1;
     width: 20rem;
     flex-direction: row;
+}
+.fb-tw-in> a img {
+    width: 3rem;
 }

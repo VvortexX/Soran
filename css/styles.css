@@ -507,7 +507,7 @@ border-radius: 50px;
   margin-left: 1.071rem;
 }
 .slider-card {
-  min-width: 25.714rem;
+  max-width: 25.714rem;
   height: 35.929rem;
   background-color: #FFFFFF;
   justify-content: flex-start;
@@ -587,6 +587,9 @@ border-radius: 50px;
   padding-top: 4.8571rem;
   padding-bottom: 4.8571rem;
   background-color: #FF65C2;
+}
+.body-8>.row {
+    padding-right: 2rem;
 }
 .subscribe-bar {
   flex-direction: row;

@@ -56,7 +56,7 @@ section .body-4-card ul li {
     max-width: 20rem;
 }
 .subscribe-bar {
-    width: 20rem;
+    width: 25rem;
 }
 .subscribe-txt {
     width: 60%;
@@ -67,4 +67,13 @@ section .body-4-card ul li {
 footer {
     padding-top: 1.5rem;
     padding-bottom: 1.5rem;
+}
+.body-8>.row {
+    padding-right: 0rem;
+}
+.fb-tw-in> a img {
+    width: 2.2rem;
+}
+.ft-card {
+        width: 12rem;
 }

@@ -21,6 +21,9 @@ h4 {
 h6 {
     font-size: 1.1rem;
 }
+.btn {
+    height: 2.5rem;
+}
 .body-2-card {
     width: auto;
 }
@@ -38,7 +41,7 @@ h6 {
 .body-3 {
     padding-left: 0.2rem;
 }
-.body-3, .body-4, .body-6, .body-7, .body-8 {
+.body-1, .body-3, .body-4, .body-6, .body-7, .body-8 {
     padding-top: 2rem;
     padding-bottom: 2rem;
 }
@@ -103,12 +106,24 @@ section .body-4-card ul li {
     justify-content: center;
     flex-wrap: wrap;
 }
+footer {
+    padding: 2rem;
+}
 footer >div .row:first-child {
     flex-wrap: wrap;
     justify-content: center;
     min-width: 24rem;
 }
 .ft-card {
-    width: 12rem;
+    width: 17rem;
     padding: 1rem;
+}
+.ft-card ul li {
+    font-size: 0.7571rem;
+    line-height: 1.7rem;
+}
+@media screen and (max-width: 600px) {
+    .ft-card {
+            width: 13rem;
+    }
 }

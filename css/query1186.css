@@ -24,8 +24,13 @@ h1 {
 .body-5 .clm .row {
     flex-direction: column;
 }
-#slider>a {
-    display: none;
+#slider {
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+.slider-left, .slider-right {
+    width: 3.857rem;
+    height: 3.857rem;
 }
 .slider-card {
     width: 25.714rem;
